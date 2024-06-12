@@ -1,5 +1,5 @@
 
-<a href=""><img align="center" src="https://algoworksupload.s3.amazonaws.com/new-algoworks/wp-content/uploads/2016/05/16105109/Software-Test-Management.gif" width="1000" height="400"></a>
+<a href=""><img align="center" src="https://algoworksupload.s3.amazonaws.com/new-algoworks/wp-content/uploads/2016/05/16105109/Software-Management.gif" width="1000" height="400"></a>
 
 <!--
 **shantanumurdio/shantanumurdio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
